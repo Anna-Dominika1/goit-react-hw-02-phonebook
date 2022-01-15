@@ -1,0 +1,15 @@
+.li_wrapper {
+  list-style: none;
+  display: flex;
+}
+.li__btn {
+  height: 40px;
+  margin: 5px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
+.li__btn:hover {
+  background-color: #555555;
+  color: #ffff;
+}
